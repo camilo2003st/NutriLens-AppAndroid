@@ -1,3 +1,8 @@
+Integrantes: Alvaro Andres Uribe Munzenmayer 21498271-4
+             Camilo Alberto Sanhueza Toledo  21339062-7
+
+
+
 # 🥗 NutriLens
 
 Aplicación multiplataforma (Android & iOS) para escanear alimentos y obtener información nutricional detallada con análisis personalizado según las metas del usuario.
